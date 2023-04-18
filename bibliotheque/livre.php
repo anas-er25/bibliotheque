@@ -1,6 +1,7 @@
 <?php
 //----------------------------------------------------------------------------------------------------------
 // Enregistrement :
+//anas et abderrahim 
 if($_POST)
 {
 	if(isset($_POST['id_livre'])) $id_livre = $_POST['id_livre']; else $id_livre = ''; 
